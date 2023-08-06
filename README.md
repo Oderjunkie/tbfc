@@ -1,5 +1,5 @@
 # tbfc
-a 624 bytes wide brainfuck compiler. simply `make` in order to generate the binary.
+a 624 byte brainfuck compiler. `mkdir build && make` to compile.
 
 # usage
 ```sh
